@@ -1,4 +1,5 @@
-### Hi there 👋
+
+###  Hi there, I'm Or Avraham Yehezkel 👋
 
 <!--
 **LightDDark/LightDDark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 😄 About Me
+- 🔭 I’m currently studying at Bar-Ilan University.
+-  🌱 I love expanding my knowledge, on technologies I know & new ones.
+### Programming Languages ⚡
+
+### Tools
+
+### Statistics
