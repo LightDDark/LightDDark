@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 😄 About Me
-- 🔭 I’m currently studying at Bar-Ilan University.
+- 🔭 Recent graduate from Bar-Ilan University.
 -  🌱 I love expanding my knowledge, on technologies I know & new ones.
 ### Programming Languages ⚡
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C logo" width="50" height="50" style="pointer-events: none"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="Cpp logo" width="50" height="50" style="pointer-events: none"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Cs logo" width="50" height="50" style="pointer-events: none"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java logo" width="50" height="50" style="pointer-events: none"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript logo" width="50" height="50" style="pointer-events: none"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" width="50" height="50" style="pointer-events: none"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Matlab logo" width="50" height="50" style="pointer-events: none"/>
